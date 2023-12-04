@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ff
-- 👀 I’m interested in basketball
-- 🌱 I’m currently learning & fighting in ZJU
+- 👀 I enjoy basketball and is interested in AI
+- 🌱 I’m currently learning & fighting in ZJU as a CS student
 
 <!---
 fightingff/fightingff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
